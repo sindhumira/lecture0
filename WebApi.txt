@@ -1,0 +1,17 @@
+https://stackoverflow.com/questions/4596371/what-are-the-downsides-to-turning-off-proxycreationenabled-for-ctp5-of-ef-code-f
+
+https://docs.microsoft.com/en-us/aspnet/web-api/overview/web-api-routing-and-actions/attribute-routing-in-web-api-2
+
+https://www.tutorialsteacher.com/webapi/request-response-data-formats-in-web-api
+
+https://forums.asp.net/t/2100990.aspx?What+is+the+meaning+of+ResponseType+attribute+with+web+api+action
+
+https://docs.microsoft.com/en-us/previous-versions/aspnet/dn308850(v=vs.118)?redirectedfrom=MSDN
+
+https://docs.microsoft.com/en-us/aspnet/mvc/overview/releases/how-to-upgrade-an-aspnet-mvc-4-and-web-api-project-to-aspnet-mvc-5-and-web-api-2
+
+https://www.codeguru.com/csharp/.net/using-custom-action-names-in-asp.net-web-api.htm
+
+https://stackoverflow.com/questions/31147924/route-aliases-in-asp-net-web-api-2
+
+https://docs.microsoft.com/en-us/aspnet/web-api/overview/web-api-routing-and-actions/routing-and-action-selection
